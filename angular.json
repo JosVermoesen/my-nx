@@ -2,6 +2,8 @@
   "$schema": "./node_modules/nx/schemas/workspace-schema.json",
   "version": 2,
   "projects": {
+    "cdd": "apps/cdd",
+    "cdd-e2e": "apps/cdd-e2e",
     "vsoft": "apps/vsoft",
     "vsoft-e2e": "apps/vsoft-e2e"
   }
